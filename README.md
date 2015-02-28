@@ -14,6 +14,12 @@ Example `.witrc` for Luvi:
 Build
 =====
 
+You have lit installed:
 ```
 lit make
+```
+
+If you do not have lit installed:
+```
+make
 ```
