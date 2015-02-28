@@ -8,7 +8,7 @@ called `.witrc`.
 Example `.witrc` for Luvi:
 
 ```json
-{ "run": {"make", "static"}, "exclude": {"^build"}  }
+{ "run": ["make", "static"], "exclude": ["^build"] }
 ```
 
 Build
